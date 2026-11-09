@@ -1,102 +1,168 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b8a9ff&height=200&section=header&text=Ayushi%20Dhiman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20Builder%20%E2%9C%A6%20Open%20Source%20Contributor&descAlignY=58&descSize=16" />
+# AYUSHI DHIMAN
+
+### SOFTWARE ENGINEERING · AI/ML · FULL-STACK DEVELOPMENT
+
+**Building useful things at the intersection of software, data, and intelligent systems.**
+
+Dehradun, India · Open to Software Engineering & ML Internship Opportunities
+
+[LinkedIn](https://linkedin.com/in/ayushidhiman2915) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/https_ayushi) &nbsp;·&nbsp; [Email](mailto:ayushidhiman07@gmail.com)
+
+![C++](https://img.shields.io/badge/C%2B%2B-F4B59F?style=flat-square&logo=cplusplus&logoColor=40251F)
+![Python](https://img.shields.io/badge/Python-F4B59F?style=flat-square&logo=python&logoColor=40251F)
+![JavaScript](https://img.shields.io/badge/JavaScript-F4B59F?style=flat-square&logo=javascript&logoColor=40251F)
+![React](https://img.shields.io/badge/React-F4B59F?style=flat-square&logo=react&logoColor=40251F)
+![PyTorch](https://img.shields.io/badge/PyTorch-F4B59F?style=flat-square&logo=pytorch&logoColor=40251F)
 
 </div>
 
+---
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushidhiman2915-b8a9ff?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushidhiman2915)
-[![GitHub](https://img.shields.io/badge/GitHub-AyushiiDhiman-b8a9ff?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushiiDhiman)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-7ee8c8?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/https_ayushi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ffb86c?style=flat-square&logo=vercel&logoColor=white)](#)
+*THE DEVELOPER PROFILE*  
+**A little about the person behind the commits.**
 
 </div>
 
----
+I'm a third-year **Computer Science & Engineering (AI & ML)** undergraduate at Graphic Era (Deemed to be University), interested in building software that is both technically thoughtful and genuinely useful.
 
-## ✦ About This Portfolio
+My work spans full-stack applications, real-time collaboration, machine learning workflows, and NLP experimentation. I enjoy taking an idea from its underlying logic to a working product — designing APIs, handling data, building interfaces, and thinking through what happens when real users interact with it.
 
-> *"Building intelligent systems with clean architecture and thoughtful design."*
-
-This is my personal developer portfolio — a single-page site built with **vanilla HTML, CSS & JavaScript** (no frameworks, no bloat). It showcases my projects, skills, experience, and everything I've shipped so far as a CSE student passionate about AI and full-stack development.
+Currently, I'm strengthening my foundations in **data structures, algorithms, backend engineering, and applied machine learning**.
 
 ---
 
-## 🛠️ Built With
+## 01 / SELECTED WORK
 
-| Layer | Tech |
-|-------|------|
-| Markup | HTML5 |
-| Styling | CSS3 (custom properties, grid, animations) |
-| Logic | Vanilla JavaScript |
-| Fonts | Playfair Display · DM Mono · DM Sans |
-| Deployment | Vercel / GitHub Pages |
+*Four projects. Four different engineering problems.*
 
----
+### 01 — TaskFlow
+**REAL-TIME COLLABORATION · FULL-STACK ENGINEERING**
 
-## 🚀 Features
+A Jira-inspired task management board built around the challenge of keeping collaborative workspaces in sync.
 
-- ✅ Fully responsive — mobile, tablet & desktop
-- ✅ Scroll-triggered reveal animations
-- ✅ Dark editorial aesthetic with micro-interactions
-- ✅ Zero dependencies — pure HTML/CSS/JS
-- ✅ Fast load, no frameworks overhead
-- ✅ Sections: Hero · About · Skills · Projects · Experience · Achievements · Contact
+- Drag-and-drop ticket workflows across Backlog, In Progress, In Review, and Done.
+- Board-scoped Socket.io rooms for real-time updates and live presence.
+- Conflict-aware updates using `expectedUpdatedAt`, returning HTTP `409` rather than silently overwriting concurrent changes.
+
+`React` `Node.js` `MongoDB` `Socket.io`
 
 ---
 
-## 📁 Project Highlights
+### 02 — Spendlytics
+**PERSONAL FINANCE · AI-ASSISTED INSIGHTS**
 
-### 🤖 AI Shopping Assistant
-Conversational AI for personalized product recommendations using OpenAI/Gemini APIs, with response caching and modular REST backend.
-`React.js` `Node.js` `MongoDB` `Gemini API`
+An expense management application that turns transaction records into understandable spending patterns.
 
-### 💸 AI Expense Management System
-MERN-stack expense tracker with Gemini-powered auto-categorization and analytics dashboards.
-`MERN Stack` `Gemini API` `JWT Auth`
+- JWT-based authentication and modular REST APIs.
+- Monthly and category-wise dashboards built with Recharts.
+- OpenAI-powered expense categorisation and spending insights, supported by rule-based fallbacks.
 
-### ⚡ EV Charging Aggregator
-Route optimization engine using Dijkstra's algorithm — handles booking, slot management & billing.
-`C++` `Python` `DSA`
+`React` `Node.js` `MongoDB` `OpenAI API` `Recharts`
 
 ---
 
-## 🏅 Certifications & Achievements
+### 03 — Velvets
+**PERSONALISATION · DISCOVERY EXPERIENCE**
 
-- 🏆 McKinsey Forward Program Participant
-- ☁️ AWS AI Practitioner · AWS Cloud Essentials · Well-Architected Proficient
-- 🔷 Azure Fundamentals (AZ-900)
-- 📮 Postman API Student Expert
-- 🎯 Campus Ambassador — Kshitij, IIT Kharagpur 2025
-- 💻 100+ LeetCode Problems Solved
+A mood-based music and book discovery platform designed to make recommendations feel more personal.
 
----
+- Six mood-based playlists with YouTube playback.
+- A curated collection of 60+ books.
+- Personal libraries, likes, custom playlists, and recommendations informed by saved content.
 
-## 🌐 Open Source
-
-Currently contributing to:
-
-- **GSSoC 2026** — GirlScript Summer of Code *(May – Aug 2026)
+`React` `Node.js` `MongoDB` `JWT`
 
 ---
 
-## 📬 Let's Connect
+### 04 — Prompt-Master
+**NLP · MODEL FINE-TUNING**
 
-If you're here for internship opportunities, collabs, or just a good tech conversation — reach out!
+An experimental prompt evaluation and refinement pipeline exploring how transformer models can improve prompt quality.
 
-| | |
-|--|--|
-| 📧 Email | ayushidhiman07@gmail.com |
-| 💼 LinkedIn | [ayushidhiman2915](https://linkedin.com/in/ayushidhiman2915) |
-| 🐙 GitHub | [AyushiiDhiman](https://github.com/AyushiiDhiman) |
+- Fine-tuned DistilBERT to classify prompts as good or weak.
+- Used BART to rewrite weaker prompts.
+- Built a live Gradio interface to demonstrate the workflow.
+- Developed as a proof of concept using a 30-pair dataset.
+
+`PyTorch` `Hugging Face` `DistilBERT` `BART` `Gradio`
+
+---
+
+## 02 / ENGINEERING TOOLKIT
+
+*Tools I use to turn ideas into working systems.*
+
+| Area | Technologies |
+|:--|:--|
+| **Languages** | C, C++, Python, JavaScript, SQL |
+| **Frontend** | React.js |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, Socket.io |
+| **Databases** | MongoDB |
+| **AI / ML** | PyTorch, Hugging Face Transformers, scikit-learn, Gradio |
+| **Cloud & Tools** | AWS, Microsoft Azure, Git, GitHub, Vercel |
+| **Foundations** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+
+---
+
+## 03 / EXPERIENCE & COMMUNITY
+
+**Cognifyz Technologies**  
+*C++ & AI/ML Intern · Remote · November 2025 – January 2026*
+
+- Developed modular C++ mini-projects using STL and object-oriented programming.
+- Worked on dataset preprocessing, feature engineering, and machine learning pipelines.
+- Evaluated Linear Regression and Logistic Regression models.
+
+**Open-source contributions**
+
+- GirlScript Summer of Code — Contributor, 2026
+- Social Summer of Code — Contributor, 2026
+
+---
+
+## 04 / THE LEARNING CURVE
+
+<div align="center">
+
+### 230+ 
+**LeetCode problems solved**
+
+100+ Medium problems · 100 Days Badge 2026
+
+</div>
+
+I believe strong engineering comes from understanding fundamentals, not just collecting frameworks. I regularly practise DSA in C++ while exploring how machine learning concepts translate into practical applications.
+
+**Certifications & learning**
+
+- Microsoft Azure Fundamentals
+- AWS Well-Architected Proficient
+- AWS AI Practitioner Learning Plan
+
+---
+
+## 05 / EDUCATION
+
+**Graphic Era (Deemed to be University)**  
+B.Tech — Computer Science & Engineering (Artificial Intelligence & Machine Learning)  
+2024 – Present · CGPA: 7.8 / 10
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b8a9ff&height=100&section=footer" />
+## LET'S BUILD SOMETHING MEANINGFUL.
 
-*Designed & built by Ayushi Dhiman · Dehradun, India · 2026*
+I'm interested in opportunities where I can contribute, learn from experienced engineers, and work on problems that matter.
+
+**Software Engineering Internships · Full-Stack Development · Machine Learning**
+
+[LET'S CONNECT](mailto:ayushidhiman07@gmail.com) &nbsp;·&nbsp; [LINKEDIN](https://linkedin.com/in/ayushidhiman2915)
+
+<sub>Made with curiosity, consistency, and a soft spot for well-engineered products.</sub>
 
 </div>
